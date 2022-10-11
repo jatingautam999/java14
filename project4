@@ -33,4 +33,4 @@ The data inside variables is not constant. This means the data inside a variable
 be changed.
 Example:
 var a = 200
-a = 100
+a = 100                                                                          by.jatin gautam
